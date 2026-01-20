@@ -35,6 +35,14 @@
 - 💡 Passionate about **clean backend logic & scalable systems**
 
 ---
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eshwar-Tamminidi/Eshwar-Tamminidi/output/github-contribution-grid-snake.svg?cache=1" />
+</p>
+
+
+---
 
 ## 🛠 Tech Stack
 
@@ -89,14 +97,6 @@
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eshwar-Tamminidi/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
 
 ## ✍️ Developer Mindset
 
@@ -106,6 +106,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Eshwar-Tamminidi&color=12"/>
-</p>
